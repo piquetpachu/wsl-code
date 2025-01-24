@@ -34,7 +34,7 @@
   background-color: #888;
 }
 body{
-  background-image: url('public/dollar.jpg') ;
+  background-image: url('assets/dollar.jpg') ;
 }
 
 @keyframes logo-spin {
